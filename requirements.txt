@@ -1,0 +1,5 @@
+pybotters
+numpy
+pandas
+loguru
+
